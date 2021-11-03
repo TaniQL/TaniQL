@@ -65,7 +65,6 @@ const tania = {
 </p>
 <p align="center">
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br/>
 <br/>
@@ -77,9 +76,6 @@ const tania = {
   <img alt="Tania's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taniql&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
   </a>
 
-<a href="https://github.com/TaniQL">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taniql&layout=compact&langs_count=8&theme=radical"  />
-</a>
 
 ----
 <p align="center">
